@@ -10,7 +10,7 @@
 
 - Complete any/all TODOS throughout the codebase
 - Style the frontend to match this [figma design](https://www.figma.com/file/d41HS9VzQyknk91q285EPs/Pome-Scrabble-dev-test?node-id=0%3A1)
-  ![Figma](public/pome-scrabble.jpg)
+  ![Figma](public/pome-scrabble.jpg). Use any styling method you like (UI libraries, css or css preprocessors).
 
 ## Submitting
 
