@@ -1,0 +1,45 @@
+.hero {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 200px 0;
+    background-image: url(../assets/bg.png);
+    background-size: cover;
+    width: 100%;
+
+    &__inner {
+        max-width: 750px;
+        text-align: center;
+        width: 100%;
+    }
+
+    &__title {
+        font-size: 72px;
+        color: #18191f;
+        text-shadow: 0px 4px 5px #00000025;
+    }
+
+    &__slogan {
+        font-family: "Nanum Pen";
+        font-size: 55px;
+        color: #8c30f5;
+        text-shadow: 0px 4px 5px #00000025;
+        margin-bottom: 20px;
+    }
+
+    &__input {
+        font-size: 30px;
+        font-weight: normal;
+        border-radius: 999px;
+        border: 1px solid #b9b9b9;
+        box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.1450980392);
+        width: 100%;
+        padding: 10px 30px;
+    }
+    &__top-hit {
+        font-size: 23px;
+        margin: 40px 0;
+        text-align: center;
+    }
+}
